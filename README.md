@@ -19,9 +19,9 @@
 </tr>
      
                <tr>
-<td align="center"><a href="https://github.com/davidr-AI/Tkinter/blob/main/pdffileconvert.py">PDF File COnvertor</a></td>
+<td align="center"><a href="https://github.com/davidr-AI/Tkinter/blob/main/pdffileconvert.py">PDF File Converter</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer"><a Will update soon></a>Will Update</a></td>
-<td align="center"><br>Convert From PDF file to any other file.</td>
+<td align="center"><br>Convert From PDF file Word, Txt or Python File.</td>
 </tr>
   
   
